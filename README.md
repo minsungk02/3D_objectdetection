@@ -1,6 +1,3 @@
-# 3D_objectdetection
-![Team_Logo](./background.png)
-
 # 🚗 3D Object Detection with CenterPoint on nuScenes-Mini
 
 ## 📖 프로젝트 개요
@@ -62,9 +59,3 @@
 1. **IoU Prediction Branch 추가:** 모델이 스스로 예측한 박스의 정확도를 평가하게 하여 NDS/mAP 추가 향상 도모.
 2. **보조 학습 (Foreground Segmentation):** 점 단위의 세그멘테이션을 학습 과정에 포함하여 백본(Backbone)의 특징 추출 능력 강화.
 3. **데이터 확장:** `nuScenes-Full` 데이터셋으로의 확장을 통해 데이터 암기 문제를 해결하고 실제 SOTA 성능(NDS 0.6 이상) 달성 시도.
-
----
-
-**"정리하신 내용이 마음에 드시나요? 특히 '연산 효율성'과 'Sparsity' 부분을 강조하여 컴공 전공자다운 통찰력을 담았습니다."**
-
-** Would you like me to help you export this report into a Markdown file or a PDF format for your portfolio? **
