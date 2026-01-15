@@ -45,6 +45,16 @@
 
 ## 📊 실험 결과 및 비교 분석
 
+### 학습 결과
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/313588ea-125c-4666-b2a5-cc97df060365" />
+
+### Test 결과
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/16813b3d-9cee-4157-95c8-946e25cd2a9a" />
+
+## 시각화 예시
+<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/99a11422-2226-489a-819c-eaaf149643eb" />
+
+
 ### 1. 정량적 지표 (CenterPoint vs PointPillars)
 
 동일한 `mini` 데이터셋에서 학습했을 때, CenterPoint가 모든 지표에서 압도적인 성능 우위를 보였습니다.
@@ -72,4 +82,5 @@
 2. **보조 학습 (Foreground Segmentation):** 점 단위의 세그멘테이션을 학습 과정에 포함하여 백본(Backbone)의 특징 추출 능력 강화.
 3. **데이터 확장:** `nuScenes-Full` 데이터셋으로의 확장을 통해 데이터 암기 문제를 해결하고 실제 SOTA 성능(NDS 0.6 이상) 달성 시도.
 4. **데이터 증강:** 현실적으로 개인이 nuScenes-Full 사용은 어려우므로 mini 증강시키기.
-5. **전이학습:** 좋은 대규모 데이터셋으로 학습시킨 모델로 전이학습 시도하기.
+5. **Regularization:** Dropout, Weight Decay
+6. **전이학습:** 좋은 대규모 데이터셋으로 학습시킨 모델로 전이학습 시도하기.
