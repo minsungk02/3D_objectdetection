@@ -15,6 +15,13 @@
 * **모델:** CenterPoint (Voxel-based, Anchor-free Head)
 * **데이터셋:** nuScenes v1.0-mini (10개 씬)
 
+## ⭐ 하이퍼 파라미터
+
+* **Batch size:** 4
+* **num_worker:** 6
+* **lr:** 0.0001
+* **lr scheduler:** one_cycle
+
 ## 🧠 핵심 모델 아키텍처: Why CenterPoint?
 
 기존 PointPillars와 달리 CenterPoint는 물체를 '상자'가 아닌 '점(Center)'으로 인식합니다.
