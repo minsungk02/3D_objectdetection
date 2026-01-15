@@ -17,7 +17,7 @@
 
 ## 🧠 핵심 모델 아키텍처: Why CenterPoint?
 
-기존 PointPillars와 달리 CenterPoint는 물체를 '상자'가 아닌 **'점(Center)'**으로 인식합니다.
+기존 PointPillars와 달리 CenterPoint는 물체를 '상자'가 아닌 '점(Center)'으로 인식합니다.
 
 * **Anchor-free:** 미리 정의된 박스(Anchor) 없이 물체의 중심점을 직접 예측하여 3D 공간의 자유도(Degree of Freedom) 문제를 해결합니다.
 * **Heatmap-based:** 물체의 존재 확률을 히트맵으로 생성하여, 데이터가 부족한 상황에서도 물체의 위치를 빠르고 정확하게 특정합니다.
