@@ -1,4 +1,3 @@
-# 3D_objectdetection
 # 3D Object Detection with PointPillars on nuScenes-Mini
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
