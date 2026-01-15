@@ -1,5 +1,10 @@
 # 🚗 3D Object Detection with CenterPoint on nuScenes-Mini
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white)
+![MMDetection3D](https://img.shields.io/badge/MMDetection3D-v1.4-green?logo=openmmlab&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## 📖 프로젝트 개요
 
 본 프로젝트는 **MMDetection3D** 프레임워크를 기반으로 차세대 3D 객체 탐지 알고리즘인 **CenterPoint**를 구현하고 성능을 분석한 연구입니다. 특히 기존 Anchor-based 모델(PointPillars)의 한계를 극복하기 위한 **Anchor-free(Heatmap-based)** 방식의 효율성을 검증하고, **nuScenes v1.0-mini**라는 극히 제한된 데이터 환경에서 모델이 어떻게 공간 정보를 학습하고 일반화하는지를 고찰하는 데 초점을 맞췄습니다.
