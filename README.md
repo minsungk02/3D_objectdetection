@@ -48,7 +48,7 @@
 
 **baseline config 파일을 가져와 val 검증을 끄기.**
 '''bash
-# 4. 검증 끄기 (학습 중 에러 방지)
+### 검증 끄기 (학습 중 에러 방지)
 val_cfg = None
 val_dataloader = None
 val_evaluator = None
