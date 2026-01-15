@@ -26,6 +26,7 @@
              playsinline>
       </video>
     </td>
+    
   </tr>
 </table>
 
