@@ -2,7 +2,20 @@
 ![Team_Logo](./background.png)
 
 ## 🎬 DEMO VIDEO
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>🚧 Scene-0916 (FRONT_CAM)</b>
+      <br><br>
+      <video src="https://github.com/user-attachments/assets/f03bf441-18a5-4953-aa60-e5d238398851" controls muted autoplay loop width="100%"></video>
+    </td>
+    <td width="50%" align="center">
+      <b>🌃 Scene-0916 (BACK_CAM)</b>
+      <br><br>
+      <video src="https://github.com/user-attachments/assets/806fe88d-af65-43e2-b859-4b7c659e3412" controls muted autoplay loop width="100%"></video>
+    </td>
+  </tr>
+</table>
 
 ## 👨‍💻 Team Members & Workspaces
 
