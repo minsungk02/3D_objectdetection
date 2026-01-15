@@ -11,9 +11,10 @@
 ## 🛠️ 개발 환경 및 기술 스택
 
 * **하드웨어:** Google Colab L4 GPU (VRAM 24GB)
-* **프레임워크:** MMDetection3D (OpenMMLab)
+* **프레임워크:** 미사용
 * **모델:** CenterPoint (Voxel-based, Anchor-free Head)
 * **데이터셋:** nuScenes v1.0-mini (10개 씬)
+* **Transfer Learning:** 미사용
 
 ## ⭐ 하이퍼 파라미터
 
