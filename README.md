@@ -1,6 +1,17 @@
 # 3D_objectdetection
 ![Team_Logo](./background.png)
 
+
+Team Branches
+https://github.com/minsungk02/3D_objectdetection/tree/jeonseungho
+
+
+
+
+
+
+
+
 # 프로젝트 계획서
 
 ## 1. 프로젝트 개요
