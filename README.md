@@ -4,13 +4,13 @@
 
 ## 👨‍💻 Team Members & Workspaces
 
-| 팀원 | 깃허브 링크 (Branch) |
+| 팀원 | Branches |
 | :---: | :--- |
-| **jeongbin** | [📂 작업 공간 바로가기](https://github.com/minsungk02/3D_objectdetection/tree/jeongbin) |
-| **jeonseungho** | [📂 작업 공간 바로가기](https://github.com/minsungk02/3D_objectdetection/tree/jeonseungho) |
-| **minsung** | [📂 작업 공간 바로가기](https://github.com/minsungk02/3D_objectdetection/tree/minsung) |
-| **sumin** | [📂 작업 공간 바로가기](https://github.com/minsungk02/3D_objectdetection/tree/sumin) |
-| **yeseo** | [📂 작업 공간 바로가기](https://github.com/minsungk02/3D_objectdetection/tree/yeseo) |
+| **jeongbin** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/jeongbin) |
+| **jeonseungho** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/jeonseungho) |
+| **minsung** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/minsung) |
+| **sumin** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/sumin) |
+| **yeseo** | [📂Go to branch](https://github.com/minsungk02/3D_objectdetection/tree/yeseo) |
 
 # 프로젝트 계획서
 
