@@ -52,8 +52,7 @@
 <img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/16813b3d-9cee-4157-95c8-946e25cd2a9a" />
 
 ## 시각화 예시
-<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/99a11422-2226-489a-819c-eaaf149643eb" />
-
+<img width="2983" height="1156" alt="image" src="https://github.com/user-attachments/assets/0009bdf2-e8ba-4d40-9c6d-47fb3da0aa9f" />
 
 ### 1. 정량적 지표 (CenterPoint vs PointPillars)
 
