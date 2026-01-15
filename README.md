@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white)
-![MMDetection3D](https://img.shields.io/badge/MMDetection3D-v1.4-green?logo=openmmlab&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 프로젝트 개요
