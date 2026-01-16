@@ -14,7 +14,7 @@
 * **프레임워크:** 미사용
 * **모델:** CenterPoint (Voxel-based, Anchor-free Head)
 * **데이터셋:** nuScenes v1.0-mini (10개 씬)
-* **Transfer Learning:** 미사용
+* **Transfer Learning:** 미사용 (오리지널 CenterPoint가 Scratch 학습을 선택했고 이를 Clone해서 그대로 사용했기 때문)
 
 ## ⭐ 하이퍼 파라미터
 
@@ -83,3 +83,4 @@
 4. **데이터 증강:** 현실적으로 개인이 nuScenes-Full 사용은 어려우므로 mini 증강시키기.
 5. **Regularization:** Dropout, Weight Decay
 6. **전이학습:** 좋은 대규모 데이터셋으로 학습시킨 모델로 전이학습 시도하기.
+   -> 저자들이 배포한 **nuScenes_full 학습 완료 가중치(.pth)**
