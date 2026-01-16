@@ -16,7 +16,7 @@
 * **데이터셋:** nuScenes v1.0-mini (10개 씬)
 * **Transfer Learning:** 미사용 (오리지널 CenterPoint가 Scratch 학습을 선택했고 이를 Clone해서 그대로 사용했기 때문)
 
-## ⭐ 하이퍼 파라미터
+## ⭐ 하이퍼 파라미터 (Clone config)
 
 * **Batch size:** 4
 * **num_worker:** 6
